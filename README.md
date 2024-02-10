@@ -1,4 +1,4 @@
-# Lunar-Lander-DRL-Dueling-DoubleDQN
+# Lunar-Lander-DRL-Dueling-DoubleDQN (D3QN)
 This is a Deep Reinforcement Learning solution for the Lunar Lander problem in OpenAI Gym using dueling network architecture and the double DQN algorithm. The solution was developed in a Jupyter notebook on the Kaggle platform, utilizing the GPU P100 accelerator.
 # Package Requirements 
 ```python
@@ -111,6 +111,8 @@ For each step, the reward:
 
 </td></tr> </table>
 
+**Note: You can experiment with various hyperparameters to achieve improved results.**
+
 ## Results
 
 <div align="center">   
@@ -122,4 +124,6 @@ For each step, the reward:
 <p align="center">
   <img src="https://github.com/EnriqManComp/Lunar-Lander-DRL-D3DQN/blob/master/show_landing.gif" alt="Test result video">
 </p>
+
+
 
