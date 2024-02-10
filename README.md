@@ -1,5 +1,5 @@
 # Lunar-Lander-DRL-Dueling-DoubleDQN (D3QN)
-This is a Deep Reinforcement Learning solution for the Lunar Lander problem in OpenAI Gym using dueling network architecture and the double DQN algorithm. The solution was developed in a Jupyter notebook on the Kaggle platform, utilizing the GPU P100 accelerator.
+This is a Deep Reinforcement Learning solution for the Lunar Lander problem in OpenAI Gym using dueling network architecture and the double DQN algorithm. The solution was developed in a Jupyter notebook on the Kaggle platform, utilizing the GPU P100 accelerator. You can find the model weights in the model folder and the results in csv format in the results folder.
 # Package Requirements 
 ```python
 pip install swig, gym[box2d]
