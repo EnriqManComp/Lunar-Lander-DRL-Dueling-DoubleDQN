@@ -80,7 +80,7 @@ For each step, the reward:
 - The lander gets outside of the viewport (x coordinate is greater than 1).
 - Episode length > 400.
 
-## Dueling Double DQN solution (D3DQN)
+## Dueling Double DQN solution (D3QN)
 
 <table>
 <tr><th> Train </th><th> Test </th></tr>
